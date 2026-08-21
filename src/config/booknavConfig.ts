@@ -147,7 +147,7 @@ export const booknavConfig: BooknavGroup[] = [
 			},
 			{
 				title: "夏夜流萤",
-				url: "https://blog.cuteleaf.cn",
+				url: "https://coccineus.uk",
 				desc: "飞萤之火自无梦的长夜亮起",
 				weight: 9,
 			},
