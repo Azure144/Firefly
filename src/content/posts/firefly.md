@@ -1,9 +1,9 @@
 ---
 title: 此文章仅作测试使用
 published: 2026-08-21
-pinned: true
+pinned: false
 description: 其实不知道该写些什么
-tags: [Markdown, Firefly, 博客, 主题, 模测试]
+tags: [Markdown, Firefly, 博客, 主题, 测试]
 category: 文章测试
 image: ./images/pixiv2.jpg
 slug: firefly

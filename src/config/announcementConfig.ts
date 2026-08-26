@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "",
 
 	// 公告内容
-	content: "欢迎来到我的博客！更多内容正在建设中。",
+	content: "欢迎来到Coccineus，更多内容正在建设中。",
 
 	// 是否允许用户关闭公告
 	closable: false,
