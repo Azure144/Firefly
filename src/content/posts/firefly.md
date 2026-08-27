@@ -7,6 +7,8 @@ tags: [Markdown, Firefly, 博客, 主题, 测试]
 category: 文章测试
 image: ./images/pixiv2.jpg
 slug: firefly
+series: "Firefly 功能示例"
+seriesOrder: 4
 ---
 
 ## 🌟 项目概述
