@@ -41,7 +41,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		desktop: [
 			"assets/images/DesktopWallpaper/pixiv1.jpg",
 			"assets/images/DesktopWallpaper/pixiv6.jpg",
-			"assets/images/DesktopWallpaper/pixiv3.jpg",
+			//"assets/images/DesktopWallpaper/pixiv3.jpg",
 			//"assets/images/DesktopWallpaper/pixiv2.jpg",
 			//"assets/images/DesktopWallpaper/pixiv5.jpg",
 		],
