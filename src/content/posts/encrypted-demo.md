@@ -26,7 +26,7 @@ seriesOrder: 6
 
 ## 图片
 
-![Firefly](./images/1.avif)
+![Firefly](https://img.coccineus.uk/file/1787368048871_GruNXcOXIAE6yzd.jpg)
 
 ## GitHub 仓库卡片
 

@@ -2,8 +2,8 @@
 title: Github开源项目推荐
 published: 2026-08-20
 pinned: true
-description: 实用有趣的开源项目
-tags: [Github,开源,推荐]
+description: 实用的开源项目
+tags: [Github,开源]
 category: 开源项目
 image: https://img.coccineus.uk/file/1787368331192_illust_71646603_20220924_070704.jpg
 slug: Github Project Recommendations
