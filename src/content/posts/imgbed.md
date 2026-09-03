@@ -1,7 +1,7 @@
 ---
 title: 使用Telegram和CloudFlareImgBed构建图床
 published: 2026-08-25
-pinned: true
+pinned: false
 description: 运用Telegram无存储上限可以实现免费图床部署
 tags: [Markdown, Firefly, 开源, Github, 教程]
 category: 教程

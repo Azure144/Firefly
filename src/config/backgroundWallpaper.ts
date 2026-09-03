@@ -117,7 +117,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				{
 					name: "Sponsor",
 					icon: "material-symbols:favorite",
-					url: "https://blog.cuteleaf.cn/sponsor/",
+					url: "https://coccineus.uk/sponsor/",
 				},
 				{
 					name: "RSS",
